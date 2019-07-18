@@ -1,0 +1,6 @@
+Create a package banking.Develop a java application with BankAccount class with account_name, account_id, address, 
+mail_id,mobile_no as members. Inherit the classes, RegularAccount, SeniorCitizenAccount,
+from BankAccount class. Add fixedDepositAmount and years as the 
+member of all the inherited classes with 6% interest rate for regular account 
+and 8% interest rate for SeniorCitizenAccount. Generate bank statement for the 
+bank accounts with their basic details and maturity amount.
